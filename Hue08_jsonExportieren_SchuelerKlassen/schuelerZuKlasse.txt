@@ -1,0 +1,1 @@
+{"klassenID":1,"eintragsdatum":2022-03-14,"schuelerID":1}{"klassenID":2,"eintragsdatum":2022-03-14,"schuelerID":2}{"klassenID":3,"eintragsdatum":2022-03-14,"schuelerID":3}

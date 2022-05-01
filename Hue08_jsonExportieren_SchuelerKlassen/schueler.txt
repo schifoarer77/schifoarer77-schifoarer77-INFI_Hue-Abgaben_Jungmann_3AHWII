@@ -1,0 +1,1 @@
+{"vorname":"Livio","nachname":"Novak","katalogNR":1,"email":"linovak@tsn.ratte"}{"vorname":"Sepp","nachname":"Walter","katalogNR":2,"email":"sewalter@tsn.apfel"}{"vorname":"Marc","nachname":"Suckerbörg","katalogNR":3,"email":"marc@tsn.börg"}

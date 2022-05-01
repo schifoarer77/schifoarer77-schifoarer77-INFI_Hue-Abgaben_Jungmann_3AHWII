@@ -1,0 +1,1 @@
+{"abteilung":"Wirtschaft","klassenNr":1,"schuelerAnzahl":25,"klassenvorstand":"God Jumbo"}{"abteilung":"Maschinenbau","klassenNr":2,"schuelerAnzahl":16,"klassenvorstand":"Hans Mayer"}{"abteilung":"Biomedizin","klassenNr":3,"schuelerAnzahl":21,"klassenvorstand":"Sepp Sonne"}
