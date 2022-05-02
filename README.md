@@ -1,4 +1,4 @@
-> # [schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
+> # [schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
 >
 > ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
 >
@@ -147,7 +147,7 @@ ________________________________________________________________
 >
 ________________________________________________________________
 >
-> # [schifoarer77-INFI_Sue_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
+> # [schifoarer77-INFI_Sue_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
 >
 > ### [Sue01_TestAufgabe2_AutoKundenVerleih_mysql](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Sue01_TestAufgabe2_AutoKundenVerleih_mysql)
 > 
