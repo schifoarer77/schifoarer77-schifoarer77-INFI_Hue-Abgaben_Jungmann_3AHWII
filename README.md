@@ -26,7 +26,7 @@ und zu befüllen
 ________________________________________________________________
 > 
 > 
-> ### [Hue02_AufMySQLUmschreiben](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue02_AufMySQLUmgeschrieben)
+> ### [Hue02_AufMySQLUmschreiben](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue02_AufMySQLUmgeschrieben)
 > 
 > ◼ **Aufgabe Kunde-Artikel erweitern.**
 >
@@ -47,7 +47,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue03_Testaufgabe_SchuelerKlassen_mysql](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue03_Testaufgabe_SchuelerKlassen_mysql)
+> ### [Hue03_Testaufgabe_SchuelerKlassen_mysql](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue03_Testaufgabe_SchuelerKlassen_mysql)
 >
 > ◼ **Eine Schule benötigt eine Schülerverwaltung.**
 >
@@ -67,7 +67,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue04_csvDateiEinlesen](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue04_csvDateiEinlesen)
+> ### [Hue04_csvDateiEinlesen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue04_csvDateiEinlesen)
 > 
 > ◼ **CSV Hausübung:**
 >
@@ -88,7 +88,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue05_csvEinlesen_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue05_csvEinlesen_SchuelerKlassen)
+> ### [Hue05_csvEinlesen_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue05_csvEinlesen_SchuelerKlassen)
 >
 > ◼ **Erzeuge eine CSV-Datei von Schülerinformationen**
 >
