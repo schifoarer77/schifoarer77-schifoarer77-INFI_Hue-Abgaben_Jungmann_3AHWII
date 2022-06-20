@@ -2,24 +2,34 @@
 >
 > ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Gruppenprojekt_NovakJungmann_3AHWII/Projekt)
 >
-> ◼ **Programmiere folgende Aufgabe mit JAVA+Sqlite**
+> ◼ **Gruppenprojekt_NovakJungmann_Kleinanzeigen**
 >
->> Erzeuge eine Kundentabelle mit (id, name, email)
+>>
+>> daten werden aus csv-dateien eingelesen
 >
->> Erzeuge eine Artikeltabelle mit (id, bezeichnung, preis)
->> Autoincrement verwenden
+>> es können später weiter CSV-dateien eingelesen werden
 >
->> Erzeuge alle notwendigen Methoden um die Tabellen anzulegen
-und zu befüllen
+>> manche datenzeilen könnten in mehrere CSV dateien vorkommen! vorkehrungen treffen!
 >
->> Trenne Kunden- und Artikelbereiche in verschiedene Klassen
+>> daten aus den CSV-Files müssen in Tabellen gespeichert werden
 >
->> Erzeuge eine Bestelltabelle mit (kundenID, artikelID, anzahl)
-(verwende Foreign Keys!!)
+>> es sind immer 2 themengebiete vorhanden (Schüler-Klassen) (Fraktoren-Felder) usw.
 >
->> Erzeuge alle notwendigen Methoden um einen Artikel zu bestellen
+>> in einem Menü im Terminal bietet man mehrere menüpunkte an:
 >
->> Erzeuge eine Methode um die Bestellung von einem Kunden 
+>> CSV datei einlesen, nachfragen im Terminal dann, 
+	zur welche Tabelle die Daten hinzugefügt werden sollen 
+	und Pfad und Dateinamen muss man auch angeben
+>
+>> Daten anzeigen aus DB-Tabelle, nächste Abfrage ist dann welche Tabelle
+>
+>> Daten verknüpfen ZB Schüler A geht in die 3AHWII, 
+	Verknüpfungszeitpunkt auch abspeichern!
+>
+>> export der Verknüpfungstabelle als JSON in einer Datei, 
+	nächste Frage, Pfad und Dateiname zu schreiben
+>
+>> Scanner benutzen fürs Terminal menü
 >
 > 🏁 **Fertigstellung 20.06.2022**
 >
