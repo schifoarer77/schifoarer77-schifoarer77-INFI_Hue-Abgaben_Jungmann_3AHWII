@@ -1,6 +1,6 @@
 > # [schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
 >
-> ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
+> ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Gruppenprojekt_NovakJungmann_3AHWII/Projekt)
 >
 > ◼ **Programmiere folgende Aufgabe mit JAVA+Sqlite**
 >
@@ -21,7 +21,7 @@ und zu befüllen
 >
 >> Erzeuge eine Methode um die Bestellung von einem Kunden 
 >
-> 🏁 **Fertigstellung 13.12.2021**
+> 🏁 **Fertigstellung 20.06.2022**
 >
 ________________________________________________________________
 > ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
