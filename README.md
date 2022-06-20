@@ -1,6 +1,6 @@
-> # [schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
+> # [schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
 >
-> ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
+> ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
 >
 > ◼ **Programmiere folgende Aufgabe mit JAVA+Sqlite**
 >
@@ -26,7 +26,7 @@ und zu befüllen
 ________________________________________________________________
 > 
 > 
-> ### [Hue02_AufMySQLUmschreiben](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue02_AufMySQLUmgeschrieben)
+> ### [Hue02_AufMySQLUmschreiben](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue02_AufMySQLUmgeschrieben)
 > 
 > ◼ **Aufgabe Kunde-Artikel erweitern.**
 >
@@ -47,7 +47,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue03_Testaufgabe_SchuelerKlassen_mysql](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue03_Testaufgabe_SchuelerKlassen_mysql)
+> ### [Hue03_Testaufgabe_SchuelerKlassen_mysql](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue03_Testaufgabe_SchuelerKlassen_mysql)
 >
 > ◼ **Eine Schule benötigt eine Schülerverwaltung.**
 >
@@ -67,7 +67,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue04_csvDateiEinlesen](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue04_csvDateiEinlesen)
+> ### [Hue04_csvDateiEinlesen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue04_csvDateiEinlesen)
 > 
 > ◼ **CSV Hausübung:**
 >
@@ -88,7 +88,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue05_csvEinlesen_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue05_csvEinlesen_SchuelerKlassen)
+> ### [Hue05_csvEinlesen_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue05_csvEinlesen_SchuelerKlassen)
 >
 > ◼ **Erzeuge eine CSV-Datei von Schülerinformationen**
 >
@@ -107,7 +107,7 @@ ________________________________________________________________
 ________________________________________________________________
 > 
 > 
-> ### [Hue06_csvExportieren_SchuelerKlassen]()
+> ### [Hue06_csvExportieren_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue06_csvExportieren_SchuelerKlassen)
 > 
 > ◼ **Erzeuge beispielhaft einige Schüler+Klasse zuordnungen (Datum der Zuordnung soll auch gespeichert werden)**
 >
@@ -116,8 +116,38 @@ ________________________________________________________________
 > 🏁 **Fertigstellung 18.04.2022**
 >
 ________________________________________________________________
+> 
+> 
+> ### [Hue07_jsonEinlesen_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue07_jsonEinlesen_SchuelerKlassen)
+> 
+> ◼ **Erzeuge eine JSON-Datei von Schülerinformationen**
 >
-> # [schifoarer77-INFI_Sue_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
+>> Überlege die passende TabellenStruktur zu der JSON-Datei
+>
+>> Erzeuge automatisch die Tabelle mittels JAVA
+>
+>> Lese mit SCANNER, zeileweise die JSON-Datei und schreib zeileweise in die neue Tabelle
+>
+>> Mach das Ganze nochmal für die Klassenräume
+>
+>> Selektiere die insertierten Schüler+Klassen
+>
+> 🏁 **Fertigstellung 02.05.2022**
+>
+________________________________________________________________
+> 
+> 
+> ### [Hue08_jsonExportieren_SchuelerKlassen](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue08_jsonExportieren_SchuelerKlassen)
+> 
+> ◼ **Erzeuge beispielhaft einige Schüler+Klasse zuordnungen (Datum der Zuordnung soll auch gespeichert werden)**
+>
+>> Selektiere diese Zuordnungen und speichere die Selektion in eine JSON-Datei ab
+>
+> 🏁 **Fertigstellung 02.05.2022**
+>
+________________________________________________________________
+>
+> # [schifoarer77-INFI_Sue_Jungmann_3AHWII](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII)
 >
 > ### [Sue01_TestAufgabe2_AutoKundenVerleih_mysql](https://github.com/schifoarer77/schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Sue01_TestAufgabe2_AutoKundenVerleih_mysql)
 > 
