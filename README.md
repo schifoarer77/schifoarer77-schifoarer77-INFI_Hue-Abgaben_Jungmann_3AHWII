@@ -2,7 +2,6 @@
 >
 > ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
 >
->
 > ◼ **Programmiere folgende Aufgabe mit JAVA+Sqlite**
 >
 >> Erzeuge eine Kundentabelle mit (id, name, email)
@@ -25,7 +24,7 @@ und zu befüllen
 > 🏁 **Fertigstellung 13.12.2021**
 >
 ________________________________________________________________
-> 
+> ### [Hue01_KundeArtikelBestellung](https://github.com/schifoarer77/schifoarer77-schifoarer77-INFI_Hue-Abgaben_Jungmann_3AHWII/tree/master/Hue01_KundeArtikelBestellung)
 > 
 > ◼ **Programmiere folgende Aufgabe mit JAVA+Sqlite**
 >
